@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/BetiPack/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/BetiPack/Data/**" />
+		<Compile Remove="$(PkgPath)/BetiPack/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/BetiPack/Schemas\**" />
+		<Compile Remove="$(PkgPath)/BetiPack/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BetiPack/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BetiPack/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BetiPack/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BetiPack/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BetiPack/Resources/**" />
+		<None Remove="$(PkgPath)/BetiPack/Assemblies/**" />
+		<None Remove="$(PkgPath)/BetiPack/Data/**" />
+		<None Remove="$(PkgPath)/BetiPack/SqlScripts/**" />
+		<None Remove="$(PkgPath)/BetiPack/Schemas/**" />
+		<None Remove="$(PkgPath)/BetiPack/Resources/**" />
+  </ItemGroup>
+</Project>
