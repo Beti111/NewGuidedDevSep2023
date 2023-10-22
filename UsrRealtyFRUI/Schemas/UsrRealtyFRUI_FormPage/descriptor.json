@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "b70763b7-34a9-455c-a284-ced95b7a9b0d",
     "Name": "UsrRealtyFRUI_FormPage",
-    "ModifiedOnUtc": "\/Date(1697450939000)\/",
+    "ModifiedOnUtc": "\/Date(1697974108000)\/",
     "Parent": {
       "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Realty FRUI form page",
-    "DependsOn": []
+    "Caption": "Realty FRUI form page"
   }
 }

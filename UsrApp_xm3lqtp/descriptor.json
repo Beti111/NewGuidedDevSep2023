@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f132681-92a1-42ca-b671-491bf6f4c16e",
+    "Name": "UsrApp_xm3lqtp",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_xm3lqtp.csproj",
+    "DependsOn": []
+  }
+}

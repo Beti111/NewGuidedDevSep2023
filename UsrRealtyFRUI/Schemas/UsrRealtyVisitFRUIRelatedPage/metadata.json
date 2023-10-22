@@ -1,0 +1,33 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "37a2373d-ab7c-41f6-ba7d-f922f75c2ac1",
+      "A2": "UsrRealtyVisitFRUIRelatedPage",
+      "A5": "a3080992-af6c-4abf-88be-069a7d7ee0ec",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "38ccf092-b014-4f5b-b645-fc1206f59e21",
+      "B8": "8.0.10.4735",
+      "AD1": "198e7c91-819c-4afb-beed-6dff241c39bf",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "e5f8786e-146e-b7b7-c114-5f6795720f58",
+      "PageSchemaUId": "877dc563-0818-4a53-9f12-ef0cfac06d4a",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}
