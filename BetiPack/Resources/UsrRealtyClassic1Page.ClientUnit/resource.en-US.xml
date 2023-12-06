@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty Classic &quot;" />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="PUSH ME!" />
+			<Item Name="LocalizableStrings.Tabb412b074TabLabelTabCaption.Value" Value="VISITS" />
+			<Item Name="LocalizableStrings.UsrSchema37594c45Detailc674c5eaDetailCaptionOnPage.Value" Value="Realty visit(Classic)" />
+		</Items>
+	</Group>
+</Resources>
